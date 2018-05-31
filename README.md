@@ -1,1 +1,1 @@
-"# PHP_Design_Patterns" 
+# PHP_Design_Patterns
