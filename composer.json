@@ -1,0 +1,18 @@
+{
+    "name": "zero/php_design_patterns",
+    "description": "learing",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zeroibc",
+            "email": "zeroibc@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zero\\":"ObServer/"
+        }
+    }
+}
